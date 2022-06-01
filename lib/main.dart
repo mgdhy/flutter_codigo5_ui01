@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: "Flutter UI",
       debugShowCheckedModeBanner: false,
-      home: HousePage(),
+      home: Login2Page(),
     );
   }
 }
