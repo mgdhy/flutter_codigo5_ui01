@@ -20,6 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 --
 ![Imagen 02](/image02.png)
 --
-![Imagen 03](/image02.png)
+![Imagen 03](/image03.png)
 --
-![Imagen 04](/image02.png)
+![Imagen 04](/image04.png)
